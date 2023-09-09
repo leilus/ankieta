@@ -1,0 +1,25 @@
+body{
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formularz{
+    background-color: antiquewhite;
+    width: 400px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+form{
+    text-align: center;
+}
+
+
+label, input{
+   display: block;
+   margin: auto;
+}
